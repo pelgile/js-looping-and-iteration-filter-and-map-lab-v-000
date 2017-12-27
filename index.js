@@ -31,4 +31,8 @@ function exactMatchToList (drivers, matcher) {
     .map(function (driver) {
       return driver.name;
     });
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> e44de6583a42ba081ab0848ec95283e3a59a1a04
